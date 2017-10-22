@@ -1,0 +1,11 @@
+Feedback:
+
+1.(1.5/2.0) 
+*El método 'Evaluar()' es el mismo que 'Check()'. Es redundante.
+*Faltan multiplicidades. Estas sólo están puestas en un lado de la relación. La multiplicidad se lee en ambos sentidos, por lo que hace falta la asignación al otro lado.
+
+2.(2.0/3.0)
+* Error de compilación en Sequence.Execute(). El override dice retornar algo pero el código no retorna.
+* El código no corresponde con el diseño de UML. El diseño contempla la estructura genérica de cualquier árbol de comportamiento, pero el código ejecuta únicamente el del enunciado.
+
+Total: 3.5/5.0
